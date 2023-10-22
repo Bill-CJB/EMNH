@@ -1,4 +1,4 @@
-# NHDE
+# EMNH
 Code for NeurIPS2023 Paper: [Efficient Meta Neural Heuristic for Multi-Objective Combinatorial Optimization](https://github.com/bill-cjb/EMNH)
 
 **Quick Start**
