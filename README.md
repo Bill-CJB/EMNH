@@ -1,5 +1,5 @@
 # EMNH
-Code for NeurIPS2023 Paper: [Efficient Meta Neural Heuristic for Multi-Objective Combinatorial Optimization](https://github.com/bill-cjb/EMNH)
+Code for NeurIPS2023 Paper: [Efficient Meta Neural Heuristic for Multi-Objective Combinatorial Optimization](https://arxiv.org/abs/2310.15196)
 
 **Quick Start**
 
